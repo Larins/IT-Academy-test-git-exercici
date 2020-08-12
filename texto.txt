@@ -2,3 +2,4 @@ fichero de texto
 fitxer de text
 -------------------------
 modificacion del fichero para commit/push solo en master
+modificacion del fichero de texto solo para branch1
